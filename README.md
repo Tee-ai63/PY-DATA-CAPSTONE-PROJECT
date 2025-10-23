@@ -55,3 +55,16 @@ Correlation Insights – Factors like GDP, social support, and life expectancy a
 Matplotlib & Seaborn – Data visualization
 
 Jupyter Notebook – Analysis environment
+
+---
+
+### Resources / References
+
+- **Hashnode Article:** [Read the full analysis on Hashnode](https://your-username.hashnode.dev/world-happiness-analysis)
+- **Lovable Report:** [View the downloadable report](https://lovable.io/reports/world-happiness-report.pdf)
+
+---
+
+##  License
+This project is open-source and available under the MIT License.
+

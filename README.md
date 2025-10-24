@@ -60,8 +60,8 @@ Jupyter Notebook – Analysis environment
 
 ### Resources / References
 
-- **Hashnode Article:** [Read the full analysis on Hashnode](https://your-username.hashnode.dev/world-happiness-analysis)
-- **Lovable Report:** [View the downloadable report](https://lovable.io/reports/world-happiness-report.pdf)
+- **Hashnode Article:** https://hashnode.com/edit/cmh4h5p94000102ju99qzcghr
+- **Lovable Report:** https://lovable.dev/projects/3cfc9291-5bff-4801-8e84-87a66c64da8c
 
 ---
 
